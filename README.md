@@ -1,8 +1,5 @@
 # Workshop Back end - Reprograma
 
-## 
-
-## 
 
 ## Exercício : On12-s14-ProjetoGuiado-BBD
 
